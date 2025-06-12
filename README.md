@@ -2,3 +2,5 @@
 This code takes input images and extracts texts from it
 <br>
 You can input multiple images at a time. it will outpute them one by one
+<br>
+for ui we have used streamlit
